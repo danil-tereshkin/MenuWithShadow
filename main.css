@@ -1,0 +1,18 @@
+div.menu {
+    border: 1px solid gray;
+    width: 100px;
+    border-radius: 7px;
+    color: brown;
+    background-color: rgb(238, 215, 157);
+    box-shadow: 3px 3px 0 0 brown;
+}
+
+ul {
+    margin: 5px;
+    padding: 0;
+}
+
+li {
+    font-size: 0.55em;
+    list-style-type: none;
+}
